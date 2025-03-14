@@ -12,9 +12,8 @@ Python Web Crawler - Simple Link Extractor. This Python program extracts all hyp
 
 ## Project Structure
 ```
-web-crawler/
-│── src/
-│   ├── main.py  # Main script to extract links
+PySpider/
+│── main.py  # Main script to extract links
 │── README.md    # Documentation
 │── requirements.txt  # Dependencies (BeautifulSoup4)
 ```
