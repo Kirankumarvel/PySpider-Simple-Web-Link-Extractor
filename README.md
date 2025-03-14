@@ -23,7 +23,7 @@ web-crawler/
 
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/web-crawler.git
+git clone https://github.com/Kirankumarvel/PySpider-Simple-Web-Link-Extractor.git
 cd web-crawler
 ```
 
