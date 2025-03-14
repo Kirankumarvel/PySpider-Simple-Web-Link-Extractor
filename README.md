@@ -58,5 +58,5 @@ This script is intended for educational purposes only. Scraping websites without
 ## License
 
 MIT License
-```
+
 
