@@ -1,6 +1,4 @@
-Here is the formatted `README.md`:
 
-```markdown
 # PySpider-Simple-Web-Link-Extractor
 🕷️PySpider: Simple Web Link Extractor
 
@@ -62,4 +60,3 @@ This script is intended for educational purposes only. Scraping websites without
 MIT License
 ```
 
-This formatting organizes the content into clear sections with appropriate code blocks and markdown syntax.
